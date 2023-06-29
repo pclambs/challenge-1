@@ -1,3 +1,5 @@
+/* Global styles */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +9,8 @@
 body {
     background-color: #d9dcd6;
 }
+
+/* Styles for header */
 
 .header {
     padding: 20px;
@@ -46,9 +50,13 @@ a {
     text-decoration: none;
 }
 
+/* style for paragraph text */
+
 p {
     font-size: 16px;
 }
+
+/* styles for hero section */
 
 .hero {
     height: 800px;
@@ -58,6 +66,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* Style for image elements */
 
 .float-left {
     float: left;
@@ -120,6 +130,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Style for footer */
 
 .footer {
     padding: 30px;
